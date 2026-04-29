@@ -1,5 +1,25 @@
 # @medusajs/dashboard
 
+## 2.14.2
+
+### Patch Changes
+
+- [#15224](https://github.com/medusajs/medusa/pull/15224) [`411cacfdfa4db48daf1f6d38eecda04031351d5a`](https://github.com/medusajs/medusa/commit/411cacfdfa4db48daf1f6d38eecda04031351d5a) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(dashboard): fix type and lint errors
+
+- [#15208](https://github.com/medusajs/medusa/pull/15208) [`ab8416d2de6eb043013d7cfbe78bb31449baf3cd`](https://github.com/medusajs/medusa/commit/ab8416d2de6eb043013d7cfbe78bb31449baf3cd) Thanks [@mvanhorn](https://github.com/mvanhorn)! - fix(dashboard): price-list create page no longer crashes — `PricingDetailsSchema` now picks the existing `rules` field from `PricingCreateSchema` instead of the unrecognized `customer_group_ids` key
+
+- [#15232](https://github.com/medusajs/medusa/pull/15232) [`a3cdc47038d101b94d077fc67d18b2c0643b69b0`](https://github.com/medusajs/medusa/commit/a3cdc47038d101b94d077fc67d18b2c0643b69b0) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(dashboard): fix type import targeting framework instead of types
+
+- [#15201](https://github.com/medusajs/medusa/pull/15201) [`8d8a1e709a5e889dd2d2b0a895decdedbfc81595`](https://github.com/medusajs/medusa/commit/8d8a1e709a5e889dd2d2b0a895decdedbfc81595) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(dashboard): compute selected value for eq operator in promo rule value form
+
+- [#15228](https://github.com/medusajs/medusa/pull/15228) [`e434f5f117d8a19752ff50b2f1a49a6af7164df1`](https://github.com/medusajs/medusa/commit/e434f5f117d8a19752ff50b2f1a49a6af7164df1) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(dashboard,region): fix currency code unset when updating region
+
+- Updated dependencies [[`aa407641ce6ddcd2e27352315b0f7b911a2c0acf`](https://github.com/medusajs/medusa/commit/aa407641ce6ddcd2e27352315b0f7b911a2c0acf)]:
+  - @medusajs/js-sdk@2.14.2
+  - @medusajs/admin-shared@2.14.2
+  - @medusajs/icons@2.14.2
+  - @medusajs/ui@4.1.9
+
 ## 2.14.1
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @medusajs/js-sdk
 
+## 2.14.2
+
+### Patch Changes
+
+- [#15169](https://github.com/medusajs/medusa/pull/15169) [`aa407641ce6ddcd2e27352315b0f7b911a2c0acf`](https://github.com/medusajs/medusa/commit/aa407641ce6ddcd2e27352315b0f7b911a2c0acf) Thanks [@GBreg19](https://github.com/GBreg19)! - feat(medusa,js-sdk,types): add POST /admin/payment-collections/:id/payment-sessions route
+
 ## 2.14.1
 
 ## 2.14.0
